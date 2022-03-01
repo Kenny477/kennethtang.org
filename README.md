@@ -21,7 +21,7 @@ Uses the same technologies as v1.0.
 ![v1.1 Home Page](v1.1-home.png)
 
 
-### v2.0
+### [v2.0](v2.0/)
 
 Currently work in progress.
 
