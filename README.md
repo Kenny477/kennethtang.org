@@ -25,4 +25,6 @@ Uses the same technologies as v1.0.
 
 Currently work in progress.
 
-Migrating to SvelteKit and TailwindCSS. Svelte has become my goto choice for developing fast web applications that don't need the full range of features and reactivity available in frameworks like React.
+Migrated to SvelteKit!
+
+![v2.0 Home Page](v2.0-home.png)
